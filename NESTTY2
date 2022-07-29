@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="viewport" content="width=width-device, initial-scale 1.0">
+        <link rel="stylesheet" href="casipong.css">
+        <title>My Family</title>
+    </head>
+
+    <body>
+        <H1> MY FAMILY</H1>
+        <div class="cover" id="father">
+            <h2 style="text-align: center; position: relative; top: 100px; font-size: 50px;">Father</h2>
+            <a href="">
+            <img src="melvin.jpeg" style=" width: 200px; height: 200px;">
+            </a>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt nihil tenetur aperiam suscipit quam et eaque, ipsa eum temporibus, nisi fuga, saepe quasi sed sint doloremque mollitia incidunt reiciendis. Voluptatum et blanditiis reiciendis perferendis repellat animi deleniti, dolor architecto doloribus similique magni minus nisi excepturi repellendus nesciunt assumenda est porro?Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa odit ad, consequuntur natus ullam quos quisquam error eaque nam vitae? Natus velit facere iste ex saepe magni molestias cum cumque voluptas voluptatem est id, aliquid, dicta quas accusamus asperiores sint voluptate incidunt beatae ipsam assumenda aspernatur vitae. Dolorum, aliquam nemo.</p>
+        </div>
+        <div class="cover" id="Mother">
+            <h2 style="text-align: center; position: relative; top: 100px; font-size: 50px;">Mother</h2>
+            <img src="cristina.jpeg" style=" width: 200px; height: 200px;">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, et asperiores voluptatem blanditiis magni nostrum aspernatur, voluptatibus quis eos ratione recusandae sed sunt molestiae. Veniam, vitae. Doloremque natus, repellat assumenda odit quas minima ullam quidem optio autem quod, nam, enim obcaecati hic dolorum quos. Numquam dolores cumque quaerat voluptas minima!Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa odit ad, consequuntur natus ullam quos quisquam error eaque nam vitae? Natus velit facere iste ex saepe magni molestias cum cumque voluptas voluptatem est id, aliquid, dicta quas accusamus asperiores sint voluptate incidunt beatae ipsam assumenda aspernatur vitae. Dolorum, aliquam nemo.</p>
+        </div>
+        <div class="cover" id="son">
+            <h2 style="text-align: center; position: relative; top: 100px; font-size: 50px;">SON</h2>
+            <img src="nestty.jpeg" style=" width: 200px; height: 200px;">
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias consequuntur veritatis tenetur, cumque, natus maiores aspernatur ipsa quod quia unde odit minima distinctio. A placeat dolorem eaque sunt et earum officia odio hic itaque dicta magnam necessitatibus deleniti eveniet voluptate voluptatem, nisi iusto corporis aspernatur! Magni nulla dignissimos ullam excepturi.Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa odit ad, consequuntur natus ullam quos quisquam error eaque nam vitae? Natus velit facere iste ex saepe magni molestias cum cumque voluptas voluptatem est id, aliquid, dicta quas accusamus asperiores sint voluptate incidunt beatae ipsam assumenda aspernatur vitae. Dolorum, aliquam nemo.</p>
+        </div>
+        <a href="casipong.html">
+            <button type="button" class="button">
+                <span class="button_icon">
+                 <ion-icon name="home-outline" style="width: 70px; height: 70px;"></ion-icon>
+               
+                </span>
+              </button>
+            </a>
+               <p style="color:violet">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore incidunt at nostrum inventore facere harum accusantium iusto quas esse. Asperiores aperiam accusamus neque numquam ratione hic voluptatum laborum enim animi modi fugiat, cum, iure corrupti id laudantium amet consequuntur ad odio? Repellendus impedit error dolorem deleniti distinctio doloribus veritatis voluptatem.</p>
+             
+             </a>
+    </body>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</html>
